@@ -1,0 +1,15 @@
+{
+  "name": "eu-west-1_skill-terranova2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.3.0",
+    "ask-sdk-dynamodb-persistence-adapter": "^2.3.0"
+  }
+}
